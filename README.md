@@ -2,4 +2,4 @@
 login
 
 
-![login](simpleloginform/login.jpg)
+![](login.jpg)
